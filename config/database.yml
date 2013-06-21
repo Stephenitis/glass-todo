@@ -8,8 +8,8 @@ development:
   encoding: unicode
   database: glass_todo_development
   pool: 5
-  username: glassapp
-  password: demo
+  username:
+  password:
   host: localhost
   min_messages: WARNING
 
